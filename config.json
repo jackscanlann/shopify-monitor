@@ -4,7 +4,7 @@
         "https://discord.com/api/webhooks/747145075741687849/lcWvGSeYbgLAwb917cznp0U4iObmoug4gIujA8JfyVFUrUvBDDJj-KP_1NCOI2eQ5nfG"
     ],
     "discord_message_settings": {
-        "botImage": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "botImage": "https://cdn.discordapp.com/attachments/737050543054127218/737052390250905611/unknown.png",
         "botName": "LI Notify Monitor",
         "footerDescription": "",
         "footerImage": "",
@@ -42,7 +42,10 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
+
             ]
         },
         {
@@ -104,7 +107,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
 
         },
@@ -135,7 +140,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
 
         },
@@ -166,7 +173,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
 
         },
@@ -197,7 +206,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
         },
         {
@@ -227,7 +238,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
         },
         {
@@ -257,7 +270,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
         },
         {
@@ -287,7 +302,9 @@
                 ["Nike", "Air", "Force", "1", "Mid"],
                 ["Nike", "Air", "Force", "1", "High"],
                 ["Travis", "Scott"],
-                ["Off", "White"]
+                ["Off", "White"],
+                ["Nike", "Kobe", "V", "Prtoro"],
+                ["Kobe", "Lakers", "City", "Edition"]
             ]
         }
 
